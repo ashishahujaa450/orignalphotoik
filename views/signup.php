@@ -12,13 +12,13 @@
 
 
 	<!--bootstrap css minified file-->
-	<link rel="stylesheet" type="text/css" href="../public/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../public/assets/bootstrap/css/bootstrap.min.css">
 
 	<!--custome style sheet-->
-	<link rel="stylesheet" type="text/css" href="../public/css/style.css">
+	<link rel="stylesheet" type="text/css" href="../public/stylesheet/style.css">
 
 	<!--font awesome-->
-	<link rel="stylesheet" type="text/css" href="../public/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="../public/assets/font-awesome.min.css">
 
 
 
@@ -55,10 +55,10 @@
 	</div><!--end main window-->
 
 	<!--latest compiled javascript files for bootstrap-->
-	<script type="text/javascript" src="../public/bootstrap/js/jquery.min.js"></script>
+	<script type="text/javascript" src="../public/assets/bootstrap/js/jquery.min.js"></script>
 
 	<!--bootstrap required javascript-->
-	<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../public/assets/bootstrap/js/bootstrap.min.js"></script>
 
 </body>
 </html>
