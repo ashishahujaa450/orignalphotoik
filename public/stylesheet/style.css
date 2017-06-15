@@ -116,18 +116,18 @@ body
 
 /* log in page */
 
-#login
+.login
 {
     padding: 1rem 4rem 3rem 4rem;
 }
 
-#login > h2
+.login > h2
 {
     opacity: .7;
     background: #4d4dd899;
 }
 
-#login hr
+.login hr
 {
     border: none;
     border-top: 1px solid white;
@@ -142,9 +142,6 @@ body
     color: white;
     border: none;
     border-bottom: 2px solid white;
-    border-bottom-width: medium;
-    border-bottom-style: none;
-    border-bottom-color: currentcolor;
     border-radius: 0;
     outline: none;
     background: none;

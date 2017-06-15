@@ -36,7 +36,49 @@
 				<h2>Change the way of Looking <br>with Photoik Web</h2>
 				<button class="btn btn-default my-btn">Login</button>
 				<button class="btn btn-default my-btn">Sign up</button>
-			</div>
+			</div><!--end block-->
+
+			<!--note:
+				please remove display:none; for see login and signup section-->
+				
+			<!--login page codee-->
+
+			<div class="block text-center" class="login" style="display:none;">
+				<h2>login now</h2>
+				<hr>
+				
+				<form action="#" method="post" class="text-center">
+
+					<label for="email">Email</label><br>
+					<input type="text" name="email" id="email" class="form-control myform"><br>
+
+					<label for="password">Password</label><br>
+					<input type="text" name="pwd" id="password" class="form-control myform"><br>
+
+					<button type="button" class="btn btn-default btn-2">Submit Query</button>
+				</form>
+			</div><!--end block-->
+
+
+			<!--sign up code-->
+			<div class="block text-center" class="login" style="display:none;">
+				<h2>sign up</h2>
+				<hr>
+				
+				<form action="#" method="post" class="text-center">
+
+					<label for="name">full name</label><br>
+					<input type="text" name="fname" id="name" class="form-control myform"><br>
+
+					<label for="email2">email</label><br>
+					<input type="text" name="em" id="email2" class="form-control myform"><br>
+
+					<label for="password2">Password</label><br>
+					<input type="text" name="pwd2" id="password2" class="form-control myform"><br>
+
+					<button type="button" class="btn btn-default btn-2">Submit Query</button>
+				</form>
+			</div><!--end block-->
 		</div><!--end overlay-->
 	</div><!--end main window-->
 
